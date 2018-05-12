@@ -1,0 +1,31 @@
+_repo: --travers-l-h-misph-re-sud-ou-Mon-second-voyage-autour-du-mondeArgentine-Chili-P-rou._26510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michel, Ernest
+    birthdate: 1837
+    gutenberg_agent_id: '32056'
+    url: http://www.gutenberg.org/2009/agents/32056
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26510'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+title: 'À travers l''hémisphère sud, ou Mon second voyage autour du monde
+
+  Tome 1; Portugal, Sénégal, Brésil, Uruguay, République
+
+  Argentine, Chili, Pérou.'
+url: http://www.gutenberg.org/ebooks/26510
